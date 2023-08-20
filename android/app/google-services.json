@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235903127238",
+    "project_id": "appmobilr-b338c",
+    "storage_bucket": "appmobilr-b338c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235903127238:android:8a10c12b306156a3d411c7",
+        "android_client_info": {
+          "package_name": "thinh.pd.testapp.n.oke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235903127238-igu2025gi2bv1jh923jgjpvsgraklibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-voWvq8zKQue_5_LDVjP4XOINsJN1ku0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235903127238-igu2025gi2bv1jh923jgjpvsgraklibc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
